@@ -13,7 +13,6 @@ const unsplash = createApi({
   fetch: fetch, // Verwende node-fetch für HTTP-Anfragen
 });
 
-
 // Serve static files from the "public" directory
 app.use(express.static('public'));
 
