@@ -5,6 +5,7 @@
         Das Projekt nutzt <strong>Express</strong> für den Server, <strong>Handlebars</strong> als Template-Engine 
         und <strong>dotenv</strong> für die sichere Speicherung von API-Schlüsseln.
     </p>
+     <img src="https://github.com/user-attachments/assets/9241699d-9dcc-4eb5-b8a2-840240fed155" alt="Demo">
     <h2>Voraussetzungen</h2>
     <ul>
         <li><a href="https://nodejs.org/">Node.js</a> (Version 14 oder höher)</li>
